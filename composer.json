@@ -1,5 +1,5 @@
 {
-    "name": "rongworld",
+    "name": "rong/world",
     "description": "短视频项目源",
     "require": {
         "php": "~7.1",

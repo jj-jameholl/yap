@@ -30,3 +30,6 @@ function now()
 {
     return date("Y-m-d H:i:s");
 }
+
+
+//我这里加一个注释哈
